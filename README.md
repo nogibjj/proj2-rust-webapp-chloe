@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Kubernetes Microservice in Rust
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Build a functional web microservice with Actix web framework
